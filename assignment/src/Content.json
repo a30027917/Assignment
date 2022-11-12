@@ -1,0 +1,142 @@
+[
+    {
+        "item":"Scp-01",
+        "class":"Keter",
+        "description":" SCP-1000 is a nocturnal, omnivorous ape, classified in the Hominini branch along with genera Pan and Homo. Adults range in size from 1.5 to 3 m (5 to 10 ft) in height, and weigh between 90 and 270 kg (200 - 600 lbs). They have grey, brown, black, red, and occasionally white fur. They possess large eyes with good vision, a pronounced brow ridge, and a sagittal crest on the forehead similar to that of the gorilla, but present in both sexes. Their intelligence is on par with that of Pan troglodytes (the common chimpanzee).", 
+        "Containment":"All media reports related to SCP-1000 are to be examined for potential verifiability.",
+        "image":"images/SCP-01.jpg" 
+    },
+    {
+        "item":"Scp-02",
+        "class":"Safe",
+        "description":"SCP-1005 is a sapient humanoid entity composed of semi-solid blue paint, with exact shades ranging from near-white to deep navy. The surface of SCP-1005 has an average tensile strength approximately 75% that of human skin; this includes its. SCP-1005 is unable to consciously control the viscosity or shape of its overall form beyond the normal locomotion of a humanoid body; it can, however, control its outer layer to a point where it can choose whether or not its paint will smear on contacting surfaces. The degree to which SCP-1005 is able to control itself in such a manner becomes lessened if over-hydrated.", 
+        "Containment":"SCP-1005 is to be maintained at Site-17 in a 3m x 3m x 3m holding room, equipped with dim lighting.",
+        "image":"images/SCP-002.jpg" 
+    },
+    {
+        "item":"Scp-03",
+        "class":"Safe",
+        "description":"SCP-1016 appears as a standard door key of unremarkable make. If placed on a keychain with two or more keys of a similar make, SCP-1016 will gradually alter its appearance to match over the course of several weeks. Regardless of form, the SCP may be identified by indelible bloodstains on the fob. Bloodstains contain human DNA from 27 different specimens, none of which matches any individual on file. If left in place for more than two weeks, the surface SCP-1016 rests on will show evidence of similar bloodstains.", 
+        "Containment":"Neither lock will contain a backup keyhole. Within this context, SCP-1016 poses no threat. Approval of at least one (1) Level 4 personnel is required for the removal of object from its containment area for research purposes.",
+        "image":"images/scp1016.jpg" 
+    },
+    {
+        "item":"Scp-04",
+        "class":"Safe",
+        "description":"SCP-1018 is the overarching designation given to a group of three statues hereafter referred to as SCP-1018-1, SCP-1018-2 and SCP-1018-3. All components of SCP-1018 depict an emaciated or elderly human male and are composed primarily of concrete and gravel. A red luminescence is visible on several points on the surface of SCP-1018 components, mostly present on the head and throat. SCP-1018-1's anomalous effect is activated by applying pressure to the back of its neck while SCP-1018-2 and SCP-1018-3's are activated by contact with liquid.", 
+        "Containment":"All components of SCP-1018 are to be kept in 1m x 1m x 3m containers and kept under guard by two members of security at all times. ",
+        "image":"images/scp-1018.jpg" 
+    },
+    {
+        "item":"Scp-05",
+        "class":"Safe",
+        "description":"SCP-1027 closely resembles the central nervous system of a human (Homo sapiens) that has adapted to life outside the human body. Specimens currently in the possession of the Foundation measure from 1.1 meters (measured from the apex of the cerebrum to the base of the sciatic nerve) to 1.5 meters. Attached are the basic sensory structures associated with human functioning, including sensory nerve structures, eyes, and cochlea. SCP-1027 appears to be able to interpret signals from these systems in the same way as a human subject. However, all neural structures within SCP-1027 are capable of movement to varying extents. This movement is most noticeable while SCP-1027 is immersed in a liquid medium.", 
+        "Containment":" SCP-1027 is to be housed in a standard liquid containment tank, immersed in a saline solution. Personnel are to avoid direct physical contact with SCP-1027 with the exception of feeding staff. ",
+        "image":"images/scp-1027.png" 
+    },
+    {
+        "item":"Scp-06",
+        "class":"Euclid",
+        "description":"When one of SCP-1032's hands reaches the twelve o'clock position, several events occur simultaneously, the combination of which is referred to as a. First, the event or entity currently written on the hand ends or is destroyed. Second, the text on the hand spontaneously changes to describe a new event or entity, which need not bear any relation to the previous one. Third, the hand's rotational velocity changes.", 
+        "Containment":"SCP-1032 is to be stored in a high-value inanimate-item cell at Sector-19. One unarmed guard is to be posted inside the cell at all times to prevent tampering.",
+        "image":"images/scp-1032.jpg" 
+    },
+    {
+        "item":"Scp-07",
+        "class":"Instrument",
+        "description":"SCP-1037 vibrates at a nanoscopic level, in a complex but structured set of frequencies ranging from 8500 Hertz to 900 Hertz. These vibrations are capable of crystallizing surrounding material1 into a visually identical version of the material of SCP-1037. In addition, SCP-1037-affected material (designated SCP-1037-1) vibrates identically to SCP-1037, leading to exponential spread of SCP-1037's effect, as long as SCP-1037 remains in contact with it. Given M grams of material, the amount of material (R) at any given time (t) in days after beginning of sustained contact with SCP-1037 is given by R = f(t) = M(e833.2t - 450.07) grams.", 
+        "Containment":"SCP-1037 is to be contained in a 40 meter tall vertical shaft at Site-19. SCP-1037 is to rest in the center of two trapdoors attached to the walls of this shaft.",
+        "image":"images/scp-07.jpg" 
+    },
+    {
+        "item":"Scp-08",
+        "class":"Euclid",
+        "description":"SCP-100 is an abandoned scrapyard eighty (80) kilometers from █████████, South Carolina, known as. The scrapyard covers roughly five thousand (5,000) square meters of fenced-off land, consisting of two warehouses, a storefront, and a small residential building, as well as neglected land and land used for storage. SCP-100 holds roughly fifteen hundred (1,500) vehicles, both pressed and unpressed, as well as roughly fourteen hundred (1,400) kilograms of separate scrap, estimated to be worth $5,000 (€3,870).", 
+        "Containment":"SCP-100 is to have six (6) guards patrolling the interior of the perimeter's fencing, and two (2) guards dedicated to the monitoring of the interior and exterior of both warehouses and the residential building, with rotations to occur every three (3) hours.",
+        "image":"images/scp-08.jpg" 
+    },{
+        "item":"Scp-09",
+        "class":"Plant",
+        "description":"SCP-199 is a species of fern within the Hymenophyllaceae family. SCP-199 is tangentially related to filmy ferns, but is more tolerant to temperature, humidity, pollution, and external damage. The rhizomes of the plants can attach to and grow on most solid surfaces. SCP-199’s appearance is similar of that of thallose liverworts, but its fronds are unique to its species.", 
+        "Containment":"A garden of SCP-199 has been built at Site-19 for research and containment. The garden is kept in a ventilated containment unit with artificial light suitable for plant growth and an automatic watering system.",
+        "image":"images/scp-09.jpg" 
+    },
+    {
+        "item":"Scp-10",
+        "class":"Euclid-Impetus",
+        "description":"SCP-066 is an amorphous mass of braided yarn and ribbon weighing approximately one kilogram. Strands of SCP-066 may be taken individually and manipulated; when this is done, a note on the diatonic scale (C-D-E-F-G-A-B) is produced by the object.", 
+        "Containment":"SCP-066 is to be kept in a tungsten carbide box in Site 21’s high-value item storage facility. Once every month, this box must be manually inspected for damage to the interior;1 if damage is present, SCP-066 must be moved to a new box. ",
+        "image":"images/yarn1.jpg" 
+    },
+    {
+        "item":"Scp-11",
+        "class":"Euclid",
+        "description":"SCP-031 is an amorphous organism with a mass of over 7,500 kg that has infiltrated the ductwork and maintenance infrastructure of the building. Tendrils emerging from SCP-031's central mass have spread through the hotel's plumbing and ductwork to all 105 floors of the building. At its peak, over 75% of the hotel's 3,000 rooms were contaminated by SCP-031.", 
+        "Containment":"Object is to be contained within a sealed storage tank of heat-resistant alloy with dimensions not less than 2m x 2m x 2m.",
+        "image":"images/scp-10.jpg" 
+    },
+    {
+        "item":"Scp-12",
+        "class":"Euclid",
+        "description":"SCP-002 resembles a tumorous, fleshy growth with a volume of roughly 60 m³ (or 2000 ft³). An iron valve hatch on one side leads to its interior, which appears to be a standard low-rent apartment of modest size. One wall of the room possesses a single window, though no such opening is visible from the exterior. The room contains furniture which, upon close examination, appears to be sculpted bone, woven hair, and various other biological substances produced by the human body. All matter tested thus far show independent or fragmented DNA sequences for each object in the room.", 
+        "Containment":"SCP-031 is currently contained in the Ryugyong Hotel, located in the city of Pyongyang, Democratic People's Republic of Korea1.",
+        "image":"images/scp-12.jpg" 
+    },
+    {
+        "item":"Scp-13",
+        "class":"safe",
+        "description":"When a single drop of SCP-300-2 is extracted from SCP-300-1 and the drop is viewed through a standard optical microscope, an animated scene becomes visible. While no two drops have shown precisely the same scene, these scenes generally take the form of pastoral or woodland scenes consistent with that of Victorian-Era England.", 
+        "Containment":" Experimentation on SCP-300 may only be performed with prior written permission from at least one (1) Level 3 Senior Researcher, and any observations made must be recorded for later analysis.",
+        "image":"images/scp-13.jpg" 
+    },
+    
+    {
+        "item":"Scp-14",
+        "class":"Euclid",
+        "description":" SCP-151 is a 1 m x 1.3 m (3 ft x 4 ft) oil painting, apparently from the perspective of someone underwater. A subject who views the painting exhibits no initial effects. However, over a period of 24 hours, the subject's breathing becomes increasingly labored, culminating in the death of the subject. Autopsies reveal that subjects' lungs have filled with seawater. Attempts to halt the drowning process by medical intervention have proven successful in prolonging the life of the subject, but have not stopped nor reversed the condition.", 
+        "Containment":" SCP-151 should be kept in a locked storage compartment, covered by an opaque cloth.",
+        "image":"images/scp-15.jpg" 
+    },
+    {
+        "item":"Scp-15",
+        "class":"Euclid",
+        "description":"SCP-468-1 is an abacus with dimensions of 20 by 7 centimeters, in near-perfect condition, with no missing beads or signs of disrepair. Its beads, despite the lack of any obvious motor or driving system, will move autonomously. Periods of movement are interspersed by periods of rest, which usually last three to five hours. SCP-468-1’s beads will often perform basic arithmetic operations, though this is not always the case.", 
+        "Containment":"A buffer area of one kilometer is to be maintained around SCP-468-2. Individuals found inside upon initial Foundation acquisition may only exit with the permission of the overseeing Level 4 researcher.",
+        "image":"images/scp-16.jpg" 
+    },
+    {
+        "item":"Scp-16",
+        "class":"Euclid",
+        "description":"SCP-437 was discovered by the Foundation in 2011, twenty years after the summer camp's closure. Employment records for Camp Lakewood have not been found. All persons who attended Camp Lakewood during the summer of 1991 are Persons of Interest, and are still currently at large.", 
+        "Containment":"A fenced perimeter has been established around SCP-437. Foundation horticulturists are to be kept on-site to monitor and care for SCP-437-A instances. Testing is prohibited pending review by the Ethics Committee.",
+        "image":"images/scp-17.jpg" 
+    },
+    {
+        "item":"Scp-17",
+        "class":"Euclid",
+        "description":"SCP-371's physiology and behavior appear similar to ordinary microscopic viruses, although with several adaptions that make it a notable marine predator: the contractile tail fibers, shown in Image A, are composed of stiffened proteins and are adapted for locomotion (swimming, grasping, walking on the ocean floor); a sharpened and hardened beak-like base plate, rendering the virus capable of injecting genetic material through the dermal skin of multicellular prey; and presumably unknown sensory organs (SCP-371 cannot see or hear, but appears to hunt by sensing heat, vibrations, and pressure/salinity gradients). Most notable is SCP-371's encoding mechanism, which does not use the direct injection of DNA or RNA, but rather numerous microscopic DNA-encoding packets, which enter host cells and use them to respawn the macroscopic organism inside the host.", 
+        "Containment":"All specimens of SCP-371 are to be contained in ocean-water tanks, filled with at least seven hundred fifty (750) liters of water (approx. 200 gallon) per specimen at between 2 and 5 degrees Celsius. ",
+        "image":"images/scp-18.jpg" 
+    },
+    {
+        "item":"Scp-18",
+        "class":"Euclid",
+        "description":"Research into the method of selection is incomplete due to a moratorium on experiments, but the available data suggests that having a larger immediate family lessens the chance of the individual making eye contact themselves dying, and neither a pattern nor a preference in victim types have been found. This may indicate that SCP-023's victim is designated entirely at random, but it is unknown whether this selection occurs at the beginning or at the end of the one-year time period. Attempts to terminate an individual who has made eye contact with SCP-023 and their entire immediate family before the one-year time period has ended.", 
+        "Containment":"SCP-023 is to be contained in a walled-off intersection of two (2) corridors at Site, with at least three (3) meters of space in each direction, and false doors at three (3) of the four (4) ends, in addition to the real door. Security cameras will be placed and maintained above all four (4) doors.",
+        "image":"images/scp-19.jpg" 
+    },
+    {
+        "item":"Scp-19",
+        "class":"Euclid",
+        "description":"The contents of the transmission are heavily encrypted, and appear to be raw static when observed directly. Were it not for the strength of the signal, NASA would have assumed it was random static generated by the Earth's electromagnetic field. Over time, the signal has evolved, with sections of it changing since its initial discovery. A Foundation supercomputer, BOMB-2, was tasked with cracking the encryption and determining the contents of the signal. After running continuously for days, BOMB-2 was able to decrypt a small portion of it, which appeared as a series of binary values. While most of the values' purposes remain unknown, several of them were identified to correspond precisely with discrete values relating to Earth.", 
+        "Containment":" Methods of containing SCP-471 are currently being investigated. Primary goal of containment is to block the non-terrestrial transmissions emanating from it, with a secondary goal of acquiring and studying SCP-471 itself. MTF Mu-4 is currently tasked with blocking SCP-471's transmissions.",
+        "image":"images/scp-20.jpg" 
+    },
+    {
+        "item":"Scp-20",
+        "class":"Safe",
+        "description":"SCP-188 is a volume of iridium metal hosting an effect that acts on a finite region around the object. With the exception of the regional effect, SCP-188 is, chemically and physically, an otherwise unremarkable sample of iridium metal. SCP-188 has a mass of 181.43 g and has been cast as a cylinder, with a radius of 1 cm and a length of 2.56 cm. SCP-188's current cylindrical shape is not its original form, but one convenient for experimental manipulation and storage.", 
+        "Containment":"As SCP-188 poses no direct threat to any Foundation assets, SCP-188 is to be contained in Storage Unit J6-455. Its presence is to be noted during the biweekly Survey of Site Assets. During this time, any environmental effects exerted by SCP-188 are to be reversed.",
+        "image":"images/scp-21.jpg" 
+    }
+]
